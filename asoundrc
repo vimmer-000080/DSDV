@@ -1,0 +1,2 @@
+defaults.pcm.!card Intel
+defaults.ctl.!card Intel
